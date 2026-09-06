@@ -2,23 +2,23 @@
 
 
 
-# [Project Name] 🎯
+# [misery chooser] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [sajay]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
+- Team Lead: [sajay jose] - [scms]
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[solve questions in a miserable way]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[choosing]
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
@@ -29,7 +29,7 @@ For Software:
 - [Languages used]
 - [Frameworks used]
 - [Libraries used]
-- [Tools used]
+- [replit]
 
 For Hardware:
 - [List main components]
@@ -49,7 +49,8 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+*prompting *
+<img width="1366" height="768" alt="Screenshot 2026-09-06 060516" src="https://github.com/user-attachments/assets/b75c9c25-4735-482d-bd86-36b7559e815b" />
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
@@ -79,6 +80,7 @@ For Hardware:
 
 ![Final](Add photo of final product here)
 *Explain the final build*
+<img width="1366" height="768" alt="Screenshot 2026-09-06 060730" src="https://github.com/user-attachments/assets/ed52f484-25df-4e6a-bd16-92ca16e00abe" />
 
 ### Project Demo
 # Video
@@ -92,7 +94,7 @@ For Hardware:
 - [Name 1]: [Specific contributions]
 - [Name 2]: [Specific contributions]
 - [Name 3]: [Specific contributions]
-
+hosted :  https://8035cc96-5030-4e54-a3b3-aa3b61450272-00-33rtwhsimnro2.pike.replit.dev/?nativeBrowserPresentationStyle=fullSreen
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
